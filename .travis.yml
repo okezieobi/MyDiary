@@ -1,11 +1,13 @@
 language: node_js
 node_js:
   - "stable"
+before_script:
+ - cd 
+ - npm i --save-dev babel-cli babel-preset-env nodemon
+ - npm i --save express body-parser
 cache:
   directories:
   - node_modules
 script:
   - npm test
   - npm run build
-before_script:
-  - cd api
