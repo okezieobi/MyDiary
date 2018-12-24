@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - "stable"
 before_script:
- - cd 
+ - cd api
  - npm i --save-dev babel-cli babel-preset-env nodemon
  - npm i --save express body-parser
 cache:
