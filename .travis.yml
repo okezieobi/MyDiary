@@ -3,8 +3,7 @@ node_js:
   - "stable"
 before_script:
  - cd api
- - npm i --save-dev babel-cli babel-preset-env nodemon
- - npm i --save express body-parser
+ - npm install
 cache:
   directories:
   - node_modules
