@@ -13,8 +13,8 @@ Required Features
 Optional Features
 1. Users can set and get daily notifications that prompt them to add an entry to their diary.
 
-TravisCi Integration badge
-https://travis-ci.com/okezieobi/MyDiary.svg?branch=development
+TravisCi Integration badge 
+[![Build Status](https://travis-ci.com/okezieobi/MyDiary.svg?branch=development)](https://travis-ci.com/okezieobi/MyDiary)
 
 Coveralls integration badge
 [![Coverage Status](https://coveralls.io/repos/github/okezieobi/MyDiary/badge.svg?branch=development)](https://coveralls.io/github/okezieobi/MyDiary?branch=development)
