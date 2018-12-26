@@ -10,7 +10,8 @@
     "clean": "rm -rf dist && mkdir dist",
     "build": "babel . -s -D -d dist --presets env --ignore node_modules",
     "serve": "node dist/index.js",
-    "nyc": "nyc npm test && nyc report --reporter=text-lcov | coveralls"
+    "coveralls": "nyc npm test && nyc report --reporter=text-lcov | coveralls",
+    "codeClimate": "nyc --reporter=lcov npm test"
   },
   "keywords": [],
   "author": "",
