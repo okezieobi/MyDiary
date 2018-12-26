@@ -21,3 +21,6 @@ Coveralls integration badge
 
 Code Climate Integration badge
 [![Test Coverage](https://api.codeclimate.com/v1/badges/25ea658f12dae8b0859d/test_coverage)](https://codeclimate.com/github/okezieobi/MyDiary/test_coverage)
+
+Code Climate Maintainability badge
+[![Maintainability](https://api.codeclimate.com/v1/badges/25ea658f12dae8b0859d/maintainability)](https://codeclimate.com/github/okezieobi/MyDiary/maintainability)
