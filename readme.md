@@ -18,3 +18,6 @@ TravisCi Integration badge
 
 Coveralls integration badge
 [![Coverage Status](https://coveralls.io/repos/github/okezieobi/MyDiary/badge.svg?branch=development)](https://coveralls.io/github/okezieobi/MyDiary?branch=development)
+
+Code Climate Integration badge
+[![Test Coverage](https://api.codeclimate.com/v1/badges/25ea658f12dae8b0859d/test_coverage)](https://codeclimate.com/github/okezieobi/MyDiary/test_coverage)

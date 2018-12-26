@@ -23,7 +23,6 @@ class DiaryController {
                 title: req.body.title,
                 description: req.body.description
             }
-
             diaryList.push(diaryEntry);
             res.status(201).json({
                 message: "Diary Entry successfully created",
@@ -67,7 +66,6 @@ class DiaryController {
                 title: req.body.title,
                 description: req.body.description
             }
-
             diaryList.splice(diaryEntry.id, 1, updatedDiaryEntry);
             res.status(200).json({
                 message: "Diary entry updated successfully",
