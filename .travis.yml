@@ -23,5 +23,3 @@ deploy:
   provider: heroku
   api_key:
     secure: Lnhtfp6DmY34M4pxqVqU/SqTrTknUzW3zFijBz15f74rz5i5FhJEqimaP/qxprCi+Zdq+I0qFSHsUEd3a5eWzN5qKnbBdXTXZKgZr+mxw30wEH1aK3ad4jpDmb+u+E+rEkI+AVOzRhBNbbJ+T2dxO3MLjwdBH6UoF2aboOKrZn5E0CykvBsNEKbBVSEw4+glFsgsSenGIH3dCXICulyG4IGA829YrkVJOK54JdroOHg1WTQxeY+DMgAFwIy5tOYn413B7mWFG9aeDUunkeBFXPRRaGd8/S1BEEew3OmYZhV4HFx2GJgAqpON9m0NcDT1SCcLqGryQeY/ii9liITHOXN2CwW3xXrrcmeAvKNJ3JC/bHfDcGFM/OW60uBLea3vK5qLxYqG/Ts4/I/PrXnnpdr/amTq2sC++wr/tWv4aVcPLZ5P2iGOCSnuTzi9hnKpvlHFbJZFN8uYR8XLV/qcqaLw4xFe9JcW/WV7C2nih/2ACmfvZJJUgTxS1DbR9p+5CqE/8DbnmfvswvVfll+axNOlc/r7HSYgmYsdzhiufkIYwe0lIEAsy14kcZb42VyEZLIWj0QIyCAZWjXe/5zMQTrQZn3DB7vn82M8eNMPF5vAPLjoavBtQp4tN+NTo/vpasdbHJbBxghYTYLqUVxZYa6nTTTspu0RR1un6TDICtI=
-  on:
-    branch: development
